@@ -1,0 +1,13 @@
+{
+  "rows": 442,
+  "features": 10,
+  "best_model_by_test_MAE": "Linear Regression",
+  "tasks": [
+    "Data Science Fundamentals Assessment",
+    "Hands-On Data Lab Implementation",
+    "Real-World Dataset Analysis Project",
+    "Data Science Tool Mastery Project",
+    "Analytics Report & Insights Documentation",
+    "Final Data Science Capstone Project"
+  ]
+}

@@ -1,0 +1,1 @@
+Source: sklearn.datasets.load_diabetes(as_frame=True). The 10 feature columns are already mean-centred and scaled. Target: quantitative disease progression measure one year after baseline. Not a diagnosis.
